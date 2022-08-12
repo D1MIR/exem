@@ -1,0 +1,14 @@
+@media screen and (max-width: 600) {
+    .planshet{
+        width: 40px;
+        height: 1px;
+        background-color: #fff;
+        border-radius: 5px; 
+    }
+    .r{
+        margin-left: -10000000px;
+    }
+    .evere{
+        margin-left: -80px;
+    }
+}
